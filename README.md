@@ -6,8 +6,7 @@ tersebut. User dapat membuat akun dan login sebelum masuk ke dalam aplikasi.
 Aplikasi ini berkomunikasi dengan database menggunakan API yang saya buat menggunakan Laravel.
 https://github.com/NovalAdi/show-cars-api.git
 
-Demo:
-https://youtu.be/3EkMRbtPbhE
+Video Demo: https://youtu.be/3EkMRbtPbhE
 
 ## Getting Started
 
