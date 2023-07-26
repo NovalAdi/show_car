@@ -1,6 +1,6 @@
 # show_car
 
-Aplikasi ini merupakan aplikasi CRUD mobil dari database. Yang mana menampilkan list dari mobil
+Aplikasi ini merupakan aplikasi CRUD mobil. Yang mana menampilkan list dari mobil
 tersebut. User dapat membuat akun dan login sebelum masuk ke dalam aplikasi.
 
 Aplikasi ini berkomunikasi dengan database menggunakan API yang saya buat menggunakan Laravel.
