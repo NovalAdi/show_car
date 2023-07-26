@@ -6,6 +6,9 @@ tersebut. User dapat membuat akun dan login sebelum masuk ke dalam aplikasi.
 Aplikasi ini berkomunikasi dengan database menggunakan API yang saya buat menggunakan Laravel.
 https://github.com/NovalAdi/show-cars-api.git
 
+Demo:
+https://youtu.be/3EkMRbtPbhE
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
