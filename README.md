@@ -1,6 +1,9 @@
 # show_car
 
-A new Flutter project.
+Aplikasi ini merupakan aplikasi CRUD mobil dari database. Yang mana menampilkan list dari mobil
+tersebut. User dapat membuat akun dan login sebelum masuk ke dalam aplikasi.
+
+Aplikasi ini berkomunikasi dengan database menggunakan API yang saya buat menggunakan Laravel.
 
 ## Getting Started
 
@@ -12,5 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on
+mobile development, and a full API reference.
